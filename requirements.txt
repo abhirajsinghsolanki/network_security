@@ -5,9 +5,11 @@ requests
 flask
 sqlalchemy
 pytest
+certifi
 pymongo
 beautifulsoup4
 scikit-learn
 matplotlib
 seaborn
 tensorflow
+# -e .
