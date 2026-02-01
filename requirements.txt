@@ -1,0 +1,13 @@
+# pyhon-dotenv
+pandas
+numpy
+requests
+flask
+sqlalchemy
+pytest
+pymongo
+beautifulsoup4
+scikit-learn
+matplotlib
+seaborn
+tensorflow
